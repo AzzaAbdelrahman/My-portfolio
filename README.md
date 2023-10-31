@@ -19,4 +19,4 @@ In order to create this portfolio I used the knowledge I gained thoughout last w
 
 
 The URL of my deployed application: https://azzaabdelrahman.github.io/My-portfolio/
-The URL of my GitHub repository: https://github.com/AzzaAbdelrahman/My-portfolioclea
+The URL of my GitHub repository: https://github.com/AzzaAbdelrahman/My-portfolio
