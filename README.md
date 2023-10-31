@@ -19,6 +19,4 @@ to create this portfolio I used the knowledge I gained thoughout last week.
 
 
 
-
-this is the a screenshot of the website: https://github.com/AzzaAbdelrahman/Horisean-Marketing-Agency/blob/main/assets/images/img1.png URL of the page: https://azzaabdelrahman.github.io/Horisean-Marketing-Agency/
-https://azzaabdelrahman.github.io/My-portfolio/
+URL of the page: https://github.com/AzzaAbdelrahman/My-portfolio
